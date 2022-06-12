@@ -1,1 +1,1 @@
-PhucServer:0.tcp.jp.ngrok.io:19304:0:0
+PhucServer:0.tcp.ap.ngrok.io:12298:0:0
